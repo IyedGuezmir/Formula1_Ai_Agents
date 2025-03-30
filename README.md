@@ -4,8 +4,7 @@
 
 
 ### 🚀 Overview
-Welcome to the **Formula 1 AI Agent Project**, an advanced machine learning-based simulation designed to optimize race strategy, predict car performance, and model driver behavior in competitive racing scenarios. This project is part of the **Agentic-AI Bootcamp**, a 3-day, hands-on experience where participants build AI agents from scratch with a focus on real-world applications.
-
+Welcome to the **Formula 1 AI Agent Project**, an advanced machine learning-based simulation designed to optimize race strategy, predict car performance, and model driver behavior in competitive racing scenarios.
 This repository contains all necessary code, datasets, and models to develop an intelligent AI system that can simulate and analyze Formula 1 races. 
 
 ---
